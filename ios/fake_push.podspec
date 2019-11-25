@@ -17,7 +17,7 @@ A new Flutter plugin.
   s.dependency 'Flutter'
   # 信鸽
   s.static_framework = true
-  s.dependency 'FakeXinGePush', '~> 3.3.5'
+  s.dependency 'QQ_XGPush', '~> 3.3.7'
 
   s.ios.deployment_target = '8.0'
 end
